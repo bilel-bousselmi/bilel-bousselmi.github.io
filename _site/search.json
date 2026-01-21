@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "Bilel Bousselmi\n\n\nESME Lyon\n\n\n\n\n\nSituation actuelle\n\nJe suis un enseignant-chercheur à l’ESME Sudria Lyon et vacataire à l’IUT Lumière, Université Lyon 2 depuis Septembre 2023.\nMes thématiques de recherche sont : analyse des données de survie, données censurées, données manquantes, régression paramétrique et non paramétrique, estimation à noyau, régression Ridge et Lasso, régression quantile, régression expectile.\n\n Voici mon CV ainsi que mon manuscrit de thèse. \n\n\n\n\nContact\n\nAdresse professionnelle :\nDeuxième étage, Bureau 207\n16 Rue Jean-Marie Leclair\n69009 Lyon, France\nMail personnel : bilel.bouselmi@gmail.com\nMail professionnel : bilel.bousselmi@esme.fr / bilel.bousselmi@univ-lyon2.fr"
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "Accueil",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "Accueil",
+    "section": "",
+    "text": "When you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "Analyse fonctionnelle\nÉquations aux dérivées partielles\nGéométrie différentielle"
+  },
+  {
+    "objectID": "research.html#thèmes-de-recherche",
+    "href": "research.html#thèmes-de-recherche",
+    "title": "Recherche",
+    "section": "",
+    "text": "Analyse fonctionnelle\nÉquations aux dérivées partielles\nGéométrie différentielle"
+  },
+  {
+    "objectID": "research.html#quarto",
+    "href": "research.html#quarto",
+    "title": "Recherche",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "research.html#running-code",
+    "href": "research.html#running-code",
+    "title": "Recherche",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "2023 – présent, ESME Sudria Lyon\n1ère année cycle prépa : Primitives et intégrales (CM/TD)\n1ère année cycle prépa : Équations différentielles linéaires (CM/TD)\n1ère année cycle prépa : Suites numériques (CM/TD)\n1ère année cycle prépa : Développements limités (CM/TD)\n1ère année cycle prépa : Polynômes et fractions irréductibles (CM/TD)\n1ère année cycle ingénieur : Probabilités et statistiques (CM/TD, anglais)\nBachelor 1 : Fonctions à une seule variable // Nombres complexes // Trigonométrie (CM/TD)\n\n\n\n2021 – présent, IUT Lumière, Université Lyon 2\n1ème année BUT: Statistiques descriptives // Statistiques inférentielles(TP/TD)\n1ème année BUT : Probabilités et simulations (TP/TD)\n1ème année BUT : Bases de l’algèbre (TP/TD)\n2ème année BUT : Estimations et tests d’hypothèses pour l’analyse bivariée (TP/TD)\n2ème année BUT : Modèle linéaire (TP/TD)\n2ème année BUT : Statistiques descriptives 2 : Régression sur des données réelles (TP)\n3ème année Licence : Introduction au langage R (TP)\n\n\n2018 – 2021, INSA Rennes\n2ème année STPI : Algèbre linéaire (TD)\n2ème année STPI : Introduction aux probabilités et statistiques (TD)\n2ème année STPI : Outils probabilistes pour l’ingénierie (TD)"
+  },
+  {
+    "objectID": "teaching.html#quarto",
+    "href": "teaching.html#quarto",
+    "title": "teaching",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "teaching.html#running-code",
+    "href": "teaching.html#running-code",
+    "title": "teaching",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "seminars.html",
+    "href": "seminars.html",
+    "title": "Conférences internationales",
+    "section": "",
+    "text": "Conférences internationales\n\nB. Bousselmi (orateur), J-F Dupuy, A. Karoui. Kernel orthogonal projection for nonparametric regression. Journées de Statistique Mathématique et Data Science, Hammamet, Tunisie. 25-28 novembre 2021\nB. Bousselmi (orateur), J-F Dupuy, A. Karoui. Random orthogonal projections based schemes for solving nonparametric and linear functional regressions problems. 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, Athènes, conférence virtuelle. 1-4 juin 2021\nB. Bousselmi, J-F Dupuy (orateur), A. Karoui. Censored count data regression with missing data. 19th Conference of the ASMDA International Society, Athènes, conférence virtuelle. 1-4 juin 2021\nB. Bousselmi, J-F Dupuy (orateur), A. Karoui. Censored count data regression with missing censoring information. 3rd International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2020), Londres, conférence virtuelle. 19-21 décembre 2020\n\n\n\n\nSéminaires\n\nB. Bousselmi. AIPW method for dealing with missing data. Séminaire d’apprentissage statistique, École Nationale Supérieure des Mines de Saint-Étienne. 25 mai 2023\nB. Bousselmi. Régression de Poisson censurée en présence d’indicatrices de censure manquantes. Séminaire de Statistique et Optimisation, Institut de Mathématiques de Toulouse (IMT). 15 mars 2022\nB. Bousselmi. Programmation et simulations avec R / Statistiques avec R. Conférence internationale ECOSTAT 2022 : De la statistique à la data science pour l’Economie et l’Entreprise du Futur, Sénégal. 19 mars 2022\nB. Bousselmi. Données de comptage avec censure et données manquantes. Séminaire ERIC, Université Lyon 2. 10 janvier 2022\nB. Bousselmi. Introduction aux languages R et Python pour la formation en Data Science. Journées de Statistique Mathématique et Data Science, Hammamet, Tunisie. 25-28 novembre 2021\nJ-F Dupuy. Régression de Poisson censurée en présence d’indicatrices de censure manquantes. Séminaire de probabilités et statistique de l’IRN AFRIMath, séminaire virtuel. 5 mai 2021\nJ-F Dupuy. Censored count data regression with missing censoring information. Rencontre Algorithmes stochastiques, modélisation statistique et applications, Université de Poitiers, séminaire virtuel. 10-11 décembre 2020\nB. Bousselmi. Reproducing kernels based schemes for nonparametric regression. Séminaire de Statistique de l’IRMAR, Agro-campus, Rennes. 4 octobre 2020\n\n\n\n\nParticipation à des séminaires et conférences\n\nSéminaire équipe Data Mining & Decision (DMD), Participation hebdomadaire, Laboratoire ERIC - Lyon 2. 2021 - 2023\nEcole CIMPA : Science des données et optimisation stochastique, Cité des Sciences, Tunis, Tunisie. mai 2022\nSéminaire méthode de l’approche causale en épidémiologie, IRSET, EHESP, INSA, IRMAR et Université de Rennes 1, séminaire virtuel. Novembre 2020\nWorkshop: Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects, Université Brown, séminaire virtuel. Novembre 2020\nLes journées statistiques de Rennes (JSTAR), INSA de Rennes, séminaire virtuel. Avril 2019\nSéminaire Statistique et Mathématiques Appliquées de Rennes, participation hebdomadaire, Laboratoire IRMAR - Rennes. 2018 - 2021"
+  },
+  {
+    "objectID": "seminars.html#quarto",
+    "href": "seminars.html#quarto",
+    "title": "seminars",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "seminars.html#running-code",
+    "href": "seminars.html#running-code",
+    "title": "seminars",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "Adresse professionnelle\nDeuxième étage, Bureau 207\n16 Rue Jean-Marie Leclair\n69009 Lyon, France bilel.bousselmi@esme.fr\nMail personnel: bilel.bouselmi@gmail.com\nMail professionel : bilel.bousselmi@esme.fr // bilel.bousselmi@univ-lyon2.fr"
+  },
+  {
+    "objectID": "contact.html#quarto",
+    "href": "contact.html#quarto",
+    "title": "contact",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#running-code",
+    "href": "contact.html#running-code",
+    "title": "contact",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "B. Bousselmi, A. Fradi, S. Helali. Dependent Censoring Based on EGMO Models via Geometric Representation. 2025\n(Article en cours, disponible sur demande)"
+  },
+  {
+    "objectID": "publications.html#quarto",
+    "href": "publications.html#quarto",
+    "title": "publications",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "publications.html#running-code",
+    "href": "publications.html#running-code",
+    "title": "publications",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "supervision.html",
+    "href": "supervision.html",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "09/2025 – Présent : Tutorat, BUT SD 2, co-encadrement : SNCF Rhône-Alpes, Lyon.\n09/2025 – Présent : Tutorat, BUT SD 2, co-encadrement : La Caisse d’Épargne et de Prévoyance Rhône-Alpes, Lyon.\n03/2024 – 05/2025 : Tutorat, BUT SD 1, co-encadrement : La métropole de Lyon, Lyon.\nSujet : Création d’une base de données pour centraliser les surfaces minérales et végétales\n03/2024 – 05/2025 : Tutorat, BUT SD 1, co-encadrement : CCAS de Bron, Lyon.\nSujet : Mise en œuvre d’un site web dynamique connecté à une base de données pour le Pôle Seniors du CCAS\n\n09/2023 – 09/2025 : Tutorat, BUT SD 2, co-encadrement : Alptis Assurance, Lyon.\nSujet : Le rôle de la gouvernance des données dans le monde de la data\n\n09/2023 – 09/2025 : Tutorat, BUT SD 2, co-encadrement : Observatoire de la Vie Étudiante, Université Claude Bernard Lyon 1, Lyon.\nSujet : Repenser la conception et restitution des résultats d’enquêtes statistiques dans le cadre\n02/2022 – 05/2022 : Situation d’Apprentissage et d’Évaluation (SAÉ), IUT Lumière, Lyon 2.\nSujet : Régression sur des données météorologiques réelles\n11/2021 – 03/2022 : Tutorat, BUT SD 2, co-encadrement : entreprise ADAPEI 69, Lyon.\nSujet : Habitudes d’utilisation du logiciel du Dossier Usager Informatisé"
+  },
+  {
+    "objectID": "supervision.html#quarto",
+    "href": "supervision.html#quarto",
+    "title": "supervision",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "supervision.html#running-code",
+    "href": "supervision.html#running-code",
+    "title": "supervision",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "publications.html#articles-en-cours",
+    "href": "publications.html#articles-en-cours",
+    "title": "Bilel BOUSSELMI",
+    "section": "",
+    "text": "B. Bousselmi, A. Fradi, S. Helali. Dependent Censoring Based on EGMO Models via Geometric Representation. 2025\n(Article en cours, disponible sur demande)"
+  },
+  {
+    "objectID": "publications.html#articles-soumis",
+    "href": "publications.html#articles-soumis",
+    "title": "Bilel BOUSSELMI",
+    "section": "Articles soumis",
+    "text": "Articles soumis\n\nB. Bousselmi, A. Lukman, E. Ali. Variable selection via componentwise boosted two-parameter ridge regression in correlated designs. 2026. Article soumis à Statistica Neerlandica.\nB. Bousselmi, G. Ciuperca. Model selection by cross-validation in an expectile linear regression. 2026. Article soumis à JSPI. ⟨Disponible sur ArXiv⟩"
+  },
+  {
+    "objectID": "publications.html#revues-internationales-avec-comité-de-lecture",
+    "href": "publications.html#revues-internationales-avec-comité-de-lecture",
+    "title": "Bilel BOUSSELMI",
+    "section": "Revues internationales avec comité de lecture",
+    "text": "Revues internationales avec comité de lecture\n\nB. Bousselmi, J-F Dupuy, A. Karoui. Censored count data regression with missing censoring informations. Electronic Journal of Statistics, 15(2): 4343-4383, 2021. ⟨DOI⟩\n\nB. Bousselmi, J-F Dupuy, A. Karoui. Random orthogonal projections based estimators for nonparametric regression problems. 2020 ⟨Disponible sur ArXiv⟩"
+  },
+  {
+    "objectID": "publications.html#conférences-internationales-avec-comité-de-lecture-proceedings",
+    "href": "publications.html#conférences-internationales-avec-comité-de-lecture-proceedings",
+    "title": "Bilel BOUSSELMI",
+    "section": "Conférences internationales avec comité de lecture (proceedings)",
+    "text": "Conférences internationales avec comité de lecture (proceedings)\n\nB. Bousselmi, J-F Dupuy, A. Karoui. Régression fonctionnelle linéaire et non paramétrique basée sur des projections orthogonales aléatoires. 52èmes Journées de Statistique, Nice, conférence virtuelle, 7-11 Juin 2021."
+  },
+  {
+    "objectID": "supervision.html#tutorat-co-encadrement",
+    "href": "supervision.html#tutorat-co-encadrement",
+    "title": "Encadrement et Tutorat",
+    "section": "",
+    "text": "09/2025 – Présent : Tutorat, BUT SD 2, co-encadrement : SNCF Rhône-Alpes, Lyon.\n09/2025 – Présent : Tutorat, BUT SD 2, co-encadrement : La Caisse d’Épargne et de Prévoyance Rhône-Alpes, Lyon.\n03/2024 – 05/2025 : Tutorat, BUT SD 1, co-encadrement : La métropole de Lyon, Lyon.\nSujet : Création d’une base de données pour centraliser les surfaces minérales et végétales\nObjectif : Centraliser les données pour visualiser la répartition des surfaces minérales et végétales sur les Rives de Saône\n03/2024 – 05/2025 : Tutorat, BUT SD 1, co-encadrement : CCAS de Bron, Lyon.\nSujet : Mise en œuvre d’un site web dynamique connecté à une base de données pour le Pôle Seniors du CCAS\nObjectif : Conception d’un outil numérique centralisant les activités proposées aux seniors, avec base de données relationnelle intégrée à un site web dynamique en PHP\n09/2023 – 09/2025 : Tutorat, BUT SD 2, co-encadrement : Alptis Assurance, Lyon.\nSujet : Le rôle de la gouvernance des données dans le monde de la data\nObjectif : Repenser la conception, restitution et traitement des données dans un contexte de migration de système d’information, avec analyse critique et étude de cas\n09/2023 – 09/2025 : Tutorat, BUT SD 2, co-encadrement : Observatoire de la Vie Étudiante, Université Claude Bernard Lyon 1, Lyon.\nSujet : Repenser la conception et restitution des résultats d’enquêtes statistiques dans le cadre d’une migration de SI\nObjectif : Détailler les fondements théoriques de la gouvernance et son intégration pratique dans la BI\n02/2022 – 05/2022 : Situation d’Apprentissage et d’Évaluation (SAÉ), IUT Lumière, Lyon 2.\nSujet : Régression sur des données météorologiques réelles\nObjectif : Préparer un tableau de données pour analyse exploratoire et modélisation (régression simple, multiple et ANOVA)\n11/2021 – 03/2022 : Tutorat, BUT SD 2, co-encadrement : entreprise ADAPEI 69, Lyon.\nSujet : Habitudes d’utilisation du logiciel du Dossier Usager Informatisé\nObjectif : Identifier les établissements et profils métier nécessitant un accompagnement renforcé et détecter les saisonnalités d’utilisation"
+  },
+  {
+    "objectID": "index.html#informations-personnelles",
+    "href": "index.html#informations-personnelles",
+    "title": "Accueil",
+    "section": "",
+    "text": "Champ\nDétails\n\n\n\n\nCivilité\nM.\n\n\nNom\nBOUSSELMI\n\n\nPrénom\nBilel\n\n\nDate de naissance\n03/10/1994\n\n\nLieu de naissance\nTunis, Tunisie\n\n\nNationalité\nFrançaise\n\n\nPoste actuel\nEnseignant-chercheur\n\n\nÉtablissement d’affectation\nÉcole d’ingénieurs ESME Sudria\n\n\nAdresse professionnelle\nDeuxième étage, Bureau 20716 Rue Jean-Marie Leclair69009 Lyon, France\n\n\nMail\nbilel.bousselmi@esme.fr\n\n\nTéléphone\n+33 7 69 96 40 11"
+  },
+  {
+    "objectID": "index.html#photo",
+    "href": "index.html#photo",
+    "title": "Accueil",
+    "section": "",
+    "text": "Bilel Bousselmi"
+  },
+  {
+    "objectID": "index.html#établissement-daffectation",
+    "href": "index.html#établissement-daffectation",
+    "title": "Accueil",
+    "section": "Établissement d’affectation",
+    "text": "Établissement d’affectation\nÉcole d’ingénieurs ESME Sudria"
+  },
+  {
+    "objectID": "index.html#adresse-professionnelle",
+    "href": "index.html#adresse-professionnelle",
+    "title": "Accueil",
+    "section": "Adresse professionnelle",
+    "text": "Adresse professionnelle\nDeuxième étage, Bureau 207\n16 Rue Jean-Marie Leclair\n69009 Lyon, France"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Accueil",
+    "section": "Contact",
+    "text": "Contact\nDeuxième étage, Bureau 207\n16 Rue Jean-Marie Leclair\n69009 Lyon, France\nMail : bilel.bousselmi@esme.fr\nTéléphone : +33 7 69 96 40 11"
+  },
+  {
+    "objectID": "teaching.html#présent-esme-sudria-lyon-université-lyon-2",
+    "href": "teaching.html#présent-esme-sudria-lyon-université-lyon-2",
+    "title": "Enseignement",
+    "section": "",
+    "text": "5ème année : Apprentissage statistique\n\n4ème année : Introduction à la science des données\n\nBUT SD 1 : Statistiques descriptives / inférentielles, Probabilités et simulations\n\nBUT SD 2 : Modèle linéaire, Régression sur données réelles, Introduction au langage R"
+  },
+  {
+    "objectID": "teaching.html#insa-rennes",
+    "href": "teaching.html#insa-rennes",
+    "title": "Enseignement",
+    "section": "",
+    "text": "5ème année MA : Fiabilité\n\n4ème année MA : Apprentissage statistique\n\n3ème année MA : Analyse de données, Statistique inférentielle, Projet interdépartement, Séminaire de l’entreprise\n\n3ème année tronc commun : Probabilité\n\n2ème année STPI : Probabilité, Analyse"
+  },
+  {
+    "objectID": "teaching.html#université-jean-jaurès-toulouse",
+    "href": "teaching.html#université-jean-jaurès-toulouse",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Licence 3 MIASHS : Statistiques inférentielles\n\nLicence 2 MIASHS : Statistiques inférentielles"
+  },
+  {
+    "objectID": "teaching.html#nhmrc-sydney",
+    "href": "teaching.html#nhmrc-sydney",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Master 2 : Principles of Statistical Inference\n\nMaster 2 : Clinical trials projects"
+  },
+  {
+    "objectID": "teaching.html#université-jean-jaurès-toulouse-1",
+    "href": "teaching.html#université-jean-jaurès-toulouse-1",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Licence 1 MIASHS : Analyse\n\nLicence 2 Psychologie : Statistiques inférentielles\n\nLicence 1 Psychologie : Statistiques"
+  },
+  {
+    "objectID": "teaching.html#inserm-toulouse",
+    "href": "teaching.html#inserm-toulouse",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Master de recherche en Épidémiologie clinique (M2R) : Analyse de données de survie, Extension du modèle de Cox"
+  }
+]

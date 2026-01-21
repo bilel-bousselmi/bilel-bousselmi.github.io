@@ -1,0 +1,21 @@
+-   **09/2025 -- Présent** : **Tutorat**, BUT SD 2, co-encadrement : SNCF Rhône-Alpes, Lyon.
+
+-   **09/2025 -- Présent** : **Tutorat**, BUT SD 2, co-encadrement : La Caisse d'Épargne et de Prévoyance Rhône-Alpes, Lyon.
+
+-   **03/2024 -- 05/2025** : **Tutorat**, BUT SD 1, co-encadrement : La métropole de Lyon, Lyon.\
+    **Sujet :** Création d'une base de données pour centraliser les surfaces minérales et végétales
+
+-   **03/2024 -- 05/2025** : **Tutorat**, BUT SD 1, co-encadrement : CCAS de Bron, Lyon.\
+    **Sujet :** Mise en œuvre d'un site web dynamique connecté à une base de données pour le Pôle Seniors du CCAS\
+
+-   **09/2023 -- 09/2025** : **Tutorat**, BUT SD 2, co-encadrement : Alptis Assurance, Lyon.\
+    **Sujet :** Le rôle de la gouvernance des données dans le monde de la data\
+
+-   **09/2023 -- 09/2025** : **Tutorat**, BUT SD 2, co-encadrement : Observatoire de la Vie Étudiante, Université Claude Bernard Lyon 1, Lyon.\
+    **Sujet :** Repenser la conception et restitution des résultats d'enquêtes statistiques dans le cadre
+
+-   **02/2022 -- 05/2022** : **Situation d'Apprentissage et d'Évaluation (SAÉ)**, IUT Lumière, Lyon 2.\
+    **Sujet :** Régression sur des données météorologiques réelles
+
+-   **11/2021 -- 03/2022** : **Tutorat**, BUT SD 2, co-encadrement : entreprise ADAPEI 69, Lyon.\
+    **Sujet :** Habitudes d'utilisation du logiciel du Dossier Usager Informatisé\

@@ -1,0 +1,26 @@
+## Articles en cours
+
+1.  **B. Bousselmi**, A. Fradi, S. Helali. *Dependent Censoring Based on EGMO Models via Geometric Representation.* 2025\
+    *(Article en cours, disponible sur demande)*
+
+------------------------------------------------------------------------
+
+## Articles soumis
+
+1.  **B. Bousselmi**, A. Lukman, E. Ali. *Variable selection via componentwise boosted two-parameter ridge regression in correlated designs.* 2026. Article soumis à *Statistica Neerlandica*.
+
+2.  **B. Bousselmi**, G. Ciuperca. *Model selection by cross-validation in an expectile linear regression.* 2026. Article soumis à *JSPI*. [⟨Disponible sur ArXiv⟩](https://arxiv.org/abs/2601.09874)\
+
+------------------------------------------------------------------------
+
+## Revues internationales avec comité de lecture
+
+1.  **B. Bousselmi**, J-F Dupuy, A. Karoui. *Censored count data regression with missing censoring informations.* *Electronic Journal of Statistics*, 15(2): 4343-4383, 2021. [⟨DOI⟩](https://doi.org/10.1214/21-EJS1897)\
+
+2.  **B. Bousselmi**, J-F Dupuy, A. Karoui. *Random orthogonal projections based estimators for nonparametric regression problems.* 2020 [⟨Disponible sur ArXiv⟩](https://arxiv.org/abs/2001.11213)\
+
+------------------------------------------------------------------------
+
+## Conférences internationales avec comité de lecture (proceedings)
+
+1.  **B. Bousselmi**, J-F Dupuy, A. Karoui. *Régression fonctionnelle linéaire et non paramétrique basée sur des projections orthogonales aléatoires.* 52èmes Journées de Statistique, Nice, conférence virtuelle, 7-11 Juin 2021.\

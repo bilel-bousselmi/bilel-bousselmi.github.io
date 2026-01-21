@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Bilel BOUSSELMI"
+  navbar:
+    left:
+      - text: INDEX
+        href: index.qmd
+      - text: PUBLICATIONS
+        href: publications.qmd
+      - text: TEACHING
+        href: teaching.qmd
+      - text: SUPERVISION
+        href: supervision.qmd
+      - text: TALKS
+        href: seminars.qmd
+      - text: CV
+        href: files/cv.pdf
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    math: mathjax

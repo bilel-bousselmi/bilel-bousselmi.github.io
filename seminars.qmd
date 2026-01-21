@@ -1,0 +1,45 @@
+# Conférences internationales
+
+1.  **B. Bousselmi (orateur)**, J-F Dupuy, A. Karoui. *Kernel orthogonal projection for nonparametric regression.* Journées de Statistique Mathématique et Data Science, Hammamet, Tunisie. **25-28 novembre 2021**
+
+2.  **B. Bousselmi (orateur)**, J-F Dupuy, A. Karoui. *Random orthogonal projections based schemes for solving nonparametric and linear functional regressions problems.* 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, Athènes, conférence virtuelle. **1-4 juin 2021**
+
+3.  B. Bousselmi, **J-F Dupuy (orateur)**, A. Karoui. *Censored count data regression with missing data.* 19th Conference of the ASMDA International Society, Athènes, conférence virtuelle. **1-4 juin 2021**
+
+4.  B. Bousselmi, **J-F Dupuy (orateur)**, A. Karoui. *Censored count data regression with missing censoring information.* 3rd International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2020), Londres, conférence virtuelle. **19-21 décembre 2020**
+
+------------------------------------------------------------------------
+
+# Séminaires
+
+1.  B. Bousselmi. *AIPW method for dealing with missing data.* Séminaire d’apprentissage statistique, École Nationale Supérieure des Mines de Saint-Étienne. **25 mai 2023**
+
+2.  B. Bousselmi. *Régression de Poisson censurée en présence d’indicatrices de censure manquantes.* Séminaire de Statistique et Optimisation, Institut de Mathématiques de Toulouse (IMT). **15 mars 2022**
+
+3.  B. Bousselmi. *Programmation et simulations avec R / Statistiques avec R.* Conférence internationale ECOSTAT 2022 : De la statistique à la data science pour l’Economie et l’Entreprise du Futur, Sénégal. **19 mars 2022**
+
+4.  B. Bousselmi. *Données de comptage avec censure et données manquantes.* Séminaire ERIC, Université Lyon 2. **10 janvier 2022**
+
+5.  B. Bousselmi. *Introduction aux languages R et Python pour la formation en Data Science.* Journées de Statistique Mathématique et Data Science, Hammamet, Tunisie. **25-28 novembre 2021**
+
+6.  J-F Dupuy. *Régression de Poisson censurée en présence d’indicatrices de censure manquantes.* Séminaire de probabilités et statistique de l’IRN AFRIMath, séminaire virtuel. **5 mai 2021**
+
+7.  J-F Dupuy. *Censored count data regression with missing censoring information.* Rencontre Algorithmes stochastiques, modélisation statistique et applications, Université de Poitiers, séminaire virtuel. **10-11 décembre 2020**
+
+8.  B. Bousselmi. *Reproducing kernels based schemes for nonparametric regression.* Séminaire de Statistique de l’IRMAR, Agro-campus, Rennes. **4 octobre 2020**
+
+------------------------------------------------------------------------
+
+# Participation à des séminaires et conférences
+
+1.  Séminaire équipe Data Mining & Decision (DMD), Participation hebdomadaire, Laboratoire ERIC - Lyon 2. **2021 - 2023**
+
+2.  Ecole CIMPA : Science des données et optimisation stochastique, Cité des Sciences, Tunis, Tunisie. **mai 2022**
+
+3.  Séminaire méthode de l'approche causale en épidémiologie, IRSET, EHESP, INSA, IRMAR et Université de Rennes 1, séminaire virtuel. **Novembre 2020**
+
+4.  Workshop: Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects, Université Brown, séminaire virtuel. **Novembre 2020**
+
+5.  Les journées statistiques de Rennes (JSTAR), INSA de Rennes, séminaire virtuel. **Avril 2019**
+
+6.  Séminaire Statistique et Mathématiques Appliquées de Rennes, participation hebdomadaire, Laboratoire IRMAR - Rennes. **2018 - 2021**

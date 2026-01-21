@@ -1,0 +1,25 @@
+#### 2023 – présent, ESME Sudria Lyon
+
+**1ère année cycle prépa :** Primitives et intégrales (CM/TD)\
+**1ère année cycle prépa :** Équations différentielles linéaires (CM/TD)\
+**1ère année cycle prépa :** Suites numériques (CM/TD)\
+**1ère année cycle prépa :** Développements limités (CM/TD)\
+**1ère année cycle prépa :** Polynômes et fractions irréductibles (CM/TD)\
+**1ère année cycle ingénieur :** Probabilités et statistiques (CM/TD, anglais)\
+**Bachelor 1 :** Fonctions à une seule variable // Nombres complexes // Trigonométrie (CM/TD)\
+
+#### 2021 – présent, IUT Lumière, Université Lyon 2
+
+**1ème année BUT:** Statistiques descriptives // Statistiques inférentielles(TP/TD) \
+**1ème année BUT :** Probabilités et simulations (TP/TD) \
+**1ème année BUT :** Bases de l’algèbre (TP/TD)\
+**2ème année BUT :** Estimations et tests d’hypothèses pour l’analyse bivariée (TP/TD)\
+**2ème année BUT :** Modèle linéaire (TP/TD)\
+**2ème année BUT :** Statistiques descriptives 2 : Régression sur des données réelles (TP)\
+**3ème année Licence :** Introduction au langage R (TP)
+
+#### 2018 – 2021, INSA Rennes
+
+**2ème année STPI :** Algèbre linéaire (TD)\
+**2ème année STPI :** Introduction aux probabilités et statistiques (TD)\
+**2ème année STPI :** Outils probabilistes pour l’ingénierie (TD)
